@@ -19,6 +19,7 @@
             /*Console.WriteLine("Please Enter the String: ");
             string s = Console.ReadLine();
             */
+
             string s = "helloThebigO";
             Console.WriteLine(CamelCase(s));
            
