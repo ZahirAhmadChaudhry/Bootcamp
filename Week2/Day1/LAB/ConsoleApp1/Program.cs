@@ -1,10 +1,24 @@
 ﻿namespace ConsoleApp1
 {
-    internal class Program
+    using System;
+
+    public class Program
     {
-        static void Main(string[] args)
+        public static void Main()
         {
-            Console.WriteLine("Hello, World!");
+            int[] array = { 1, 2, 3, 4, 5 };
+            int[] reversedArray = new int[array.Length];
+
+            for (int i = 0; i < array.Length; i++)
+            {
+                reversedArray[array.Length - 1 - i] = array[i];
+            }
+
+            Console.WriteLine("Reversed Array:");
+            foreach (int j in reversedArray)
+            {
+                Console.Write(j + " ");
+            }
         }
     }
 }
