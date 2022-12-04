@@ -6,11 +6,12 @@
         public static int[] LeftRotation(int[] array, int numRotations)
         {
             // Declaring an temp array with Null index valuse
-            int[] rotatedArray = new int[array.Length];
+            int n = array.Length;
+            int[] rotatedArray = new int[n];
 
             for (int i = 0; i < array.Length; i++)
             {
-                int newIndex = (i + numRotations) % array.Length;
+                int newIndex = (i + (n-numRotations)) % n;
                 rotatedArray[newIndex] = array[i];
             }
 
@@ -21,7 +22,7 @@
             // Input declaration and initialization
             int[] arr = { 1, 2, 3, 4, 5 };
             // Number of iterations 
-            int d = 2;
+            int d = 4;
             //calling the function
             arr = LeftRotation(arr, d);
 
