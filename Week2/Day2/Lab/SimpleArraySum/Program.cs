@@ -13,7 +13,12 @@
         }
         static void Main(string[] args)
         {
-            int[] arr = { 2, 3, 5, 3, 6, 5 };
+            int[] arr = new int[5];
+
+            for(int i=0; i<5; i++)
+            {
+                arr[i] = int.Parse(Console.ReadLine());
+            }
 
             //calling function 
 
