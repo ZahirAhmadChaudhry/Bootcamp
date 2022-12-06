@@ -39,9 +39,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "functionWithPara", "Excerci
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Arrays", "Arrays", "{A07E957B-7F4A-41A0-8A95-6ECDD8D307FE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2DArray", "Excercises\Arrays\2DArray\2DArray.csproj", "{F88543F6-AF70-4C37-AD14-975100599CA9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2DArray", "Excercises\Arrays\2DArray\2DArray.csproj", "{F88543F6-AF70-4C37-AD14-975100599CA9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HourGlass", "Week2\Day1\LAB\HourGlass\HourGlass.csproj", "{B49A3B0D-B578-4F05-8638-EE5D760A7BD6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HourGlass", "Week2\Day1\LAB\HourGlass\HourGlass.csproj", "{B49A3B0D-B578-4F05-8638-EE5D760A7BD6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
