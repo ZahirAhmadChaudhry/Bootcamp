@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "Z:\\Bootcamp\\.Net Programming\\Week3\\CRUD Operation\\CRUD Operations\\CRUD Operations.csproj": {}
+    "Z:\\Bootcamp\\.Net Programming\\Week3\\CRUD Operations\\CRUD Operations.csproj": {}
   },
   "projects": {
-    "Z:\\Bootcamp\\.Net Programming\\Week3\\CRUD Operation\\CRUD Operations\\CRUD Operations.csproj": {
+    "Z:\\Bootcamp\\.Net Programming\\Week3\\CRUD Operations\\CRUD Operations.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "Z:\\Bootcamp\\.Net Programming\\Week3\\CRUD Operation\\CRUD Operations\\CRUD Operations.csproj",
+        "projectUniqueName": "Z:\\Bootcamp\\.Net Programming\\Week3\\CRUD Operations\\CRUD Operations.csproj",
         "projectName": "CRUD Operations",
-        "projectPath": "Z:\\Bootcamp\\.Net Programming\\Week3\\CRUD Operation\\CRUD Operations\\CRUD Operations.csproj",
+        "projectPath": "Z:\\Bootcamp\\.Net Programming\\Week3\\CRUD Operations\\CRUD Operations.csproj",
         "packagesPath": "C:\\Users\\ahmadzah\\.nuget\\packages\\",
-        "outputPath": "Z:\\Bootcamp\\.Net Programming\\Week3\\CRUD Operation\\CRUD Operations\\obj\\",
+        "outputPath": "Z:\\Bootcamp\\.Net Programming\\Week3\\CRUD Operations\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
